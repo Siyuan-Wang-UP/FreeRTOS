@@ -6,4 +6,7 @@ Some information from the official website.
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> 4115f439614831454244b7b2ce48398c1ab1e038
+=======
+>>>>>>> remotes/origin/main
